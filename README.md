@@ -1,3 +1,6 @@
+I did not use AI to write or complete any restricted parts of this assignment. I utilized AI solely to better understand specific code methods and for minor code optimizations. I am prepared to explain my reasoning and the entire process used to create this work.
+
+Link to map: https://ocasti-1928405.github.io/seattle-collision-dashboard/
 # Seattle Vehicle Collisions Dashboard - 2023
 
 ## 1. Project Title and Objective
